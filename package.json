@@ -1,5 +1,5 @@
 {
-  "name": "webpack-static-html-pages",
+* "name": "webpack-static-html-pages",
   "version": "2.0.0",
   "repository": {
     "type": "git",
@@ -54,3 +54,4 @@
     ]
   }
 }
+ 
